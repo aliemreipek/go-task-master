@@ -4,7 +4,7 @@ A robust, production-ready Task Management RESTful API built with **Golang (Gin)
 
 ## 🛠 Tech Stack
 
-* **Language:** Golang (1.23+)
+* **Language:** Golang (1.25+)
 * **Framework:** Gin Gonic
 * **Database:** PostgreSQL 15
 * **ORM:** GORM
