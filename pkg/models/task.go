@@ -14,5 +14,5 @@ type Task struct {
 	DueDate     time.Time      `json:"due_date"`
 	CreatedAt   time.Time      `json:"created_at"`
 	UpdatedAt   time.Time      `json:"updated_at"`
-	DeletedAt   gorm.DeletedAt `gorm:"index" json:"-"` // Soft delete özelliği
+	DeletedAt   gorm.DeletedAt `gorm:"index" json:"-"` // Soft delete
 }
